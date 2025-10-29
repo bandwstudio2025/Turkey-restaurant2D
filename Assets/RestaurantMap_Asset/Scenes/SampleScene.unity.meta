@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 649e76e8046a88a649c2afc59c34e921
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245210
+  packageName: Isometric Restaurant Map
+  packageVersion: 1.0
+  assetPath: Assets/RestaurantMap_Asset/Scenes/SampleScene.unity
+  uploadId: 583367
